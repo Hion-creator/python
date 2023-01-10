@@ -6,6 +6,5 @@ print(lista2)
 lista3=lista2+lista[5:8]
 print(lista3)
 
-"""
-mirar logica
-"""
+
+#mirar logica
